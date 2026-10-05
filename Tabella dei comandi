@@ -11,6 +11,7 @@ CHIAMA         CALL
 COS            COS
 DATI           DATA
 DIM            DIM
+DIS            DRAW
 DEF            DEF
 DIV            DIV
 E              AND
@@ -18,8 +19,10 @@ ELIMINA        DELETE
 GR             DEG
 JS             ADVAL
 LIBERA         CLEAR
+PLOT           TR
 PASSA          CHAIN
 PSC            CLS
+UDV            VDU 
 
 I seguenti comandi non funzionano, neppure nel BBC BASIC per C64, dal quale BASILICO-BB-C64 derica
 
