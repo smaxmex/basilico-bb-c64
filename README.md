@@ -29,7 +29,7 @@ Per eseguire **BASILICO BB per Commodore 64** su un emulatore Commodore 64 (es. 
 1. Scaricare il file PRG.
 2. Caricarlo tramite comando:
 ```basic
-LOAD "BASILICO-BB",8,1
+LOAD "BASILICO-BB",8
 RUN
 
 ```
