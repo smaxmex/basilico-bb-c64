@@ -1,6 +1,6 @@
 # BASILICO-BB-C64
 
-**BASato sull'Italiano LInguaggio COnvertito** *(basato su BBC BASIC per Commodore 64)*
+**BASato sull'Italiano LInguaggio COnvertito** *(derivato dal BBC BASIC per Commodore 64)*
 
 BASILICO BB C64 è un adattamento del linguaggio BBC BASIC per Commodore 64 con comandi e sintassi localizzati in lingua italiana.
 
