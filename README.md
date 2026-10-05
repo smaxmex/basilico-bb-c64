@@ -6,7 +6,7 @@ BASILICO BB C64 è un adattamento del linguaggio BBC BASIC per Commodore 64 con 
 
 ---
 
-## Proprietà Intellettuale e Note sul Copyright
+## Proprietà intellettuale e note sui diritti relativi al codice
 
 Questo progetto rappresenta una modifica di un'opera preesistente e non rivendica la titolarità del codice sorgente o del binario originale. La proprietà intellettuale delle componenti del software è articolata come segue:
 
