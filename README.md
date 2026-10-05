@@ -2,7 +2,7 @@
 
 **BASato sull'Italiano LInguaggio COnvertito, derivato dal BBC BASIC per Commodore 64**
 
-BASILICO BB C64 è un adattamento del linguaggio BBC BASIC per Commodore 64 con comandi e sintassi localizzati in lingua italiana. Allo stato attuale, i comandi del BASIC sono stati interamente tradotti, non ancora i messaggi di errore.
+BASILICO-BB-C64 è un adattamento del linguaggio BBC BASIC per Commodore 64 con comandi e sintassi localizzati in lingua italiana. Allo stato attuale, i comandi del BASIC sono stati interamente tradotti, non ancora i messaggi di errore.
 
 ---
 
@@ -24,7 +24,7 @@ Questo progetto rappresenta una modifica di un'opera preesistente e non rivendic
 
 ## Requisiti e Utilizzo
 
-Per eseguire **BASILICO BB per Commodore 64** su un emulatore Commodore 64 (es. VICE) o su hardware reale:
+Per eseguire **BASILICO-BB-C64** su un emulatore Commodore 64 (es. VICE) o su reale Commodore 64/128:
 
 1. Scaricare il file PRG.
 2. Caricarlo tramite comando:
