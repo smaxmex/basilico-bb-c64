@@ -11,7 +11,7 @@ BASILICO BB C64 è un adattamento del linguaggio BBC BASIC per Commodore 64 con 
 Questo progetto rappresenta una modifica di un'opera preesistente e non rivendica la titolarità del codice sorgente o del binario originale. La proprietà intellettuale delle componenti del software è articolata come segue:
 
 * **BBC BASIC (Core & Implementazione 6502)** - Tutti i diritti relativi al codice originale del BBC BASIC appartengono a **Acorn Computers Ltd.** (e ai suoi aventi causa).
-* **Interfaccia per Commodore 64 (Kernal Veneer)** - Il codice di adattamento e interfacciamento tra il BBC BASIC e il Kernal del Commodore 64 è stato sviluppato da **J.G. Harston** ([mdfs.net](https://www.google.com/search?q=http://mdfs.net/Software/BBCBasic/C64/)).
+* **Interfaccia per Commodore 64** - Il codice di adattamento e interfacciamento tra il BBC BASIC e il Kernal del Commodore 64 è stato sviluppato da **J.G. Harston** ([mdfs.net](https://www.google.com/search?q=http://mdfs.net/Software/BBCBasic/C64/)).
 * **Localizzazione dei Comandi in Italiano** - La paternità della traduzione, dell'adattamento dei token e della riallocazione dei byte relativi alla sintassi in lingua italiana appartiene all'autore di questo repository.
 
 ---
