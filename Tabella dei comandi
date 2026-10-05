@@ -1,0 +1,31 @@
+BASILICO BB    BBC BASIC
+
+ACS            ACS
+ASC            ASC
+ASN            ASN
+ASS            ABS
+ATN            ATN
+CAR$           CHR$
+CARATTERI      COUNT
+CHIAMA         CALL
+COS            COS
+DATI           DATA
+DIM            DIM
+DEF            DEF
+DIV            DIV
+E              AND
+ELIMINA        DELETE
+GR             DEG
+JS             ADVAL
+LIBERA         CLEAR
+PASSA          CHAIN
+PSC            CLS
+
+I seguenti comandi non funzionano, neppure nel BBC BASIC per C64, dal quale BASILICO-BB-C64 derica
+
+CH#            CLOSE#
+DIS            DRAW
+MC#            BPUT#
+PC#            BGET#
+
+Il comando OSCLI è stato tolto dalla tabella dei token nel BASILICO BB per Commodore 64
