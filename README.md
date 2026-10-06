@@ -14,10 +14,6 @@ Questo progetto rappresenta una modifica di un'opera preesistente e non rivendic
 * **Interfaccia per Commodore 64** - Il codice di adattamento e interfacciamento tra il BBC BASIC e il Kernal del Commodore 64 è stato sviluppato da **J.G. Harston** ([mdfs.net](https://www.google.com/search?q=http://mdfs.net/Software/BBCBasic/C64/)).
 * **Localizzazione dei Comandi in Italiano** - La paternità della traduzione, dell'adattamento dei token e della riallocazione dei byte relativi alla sintassi in lingua italiana appartiene all'autore di questo repository.
 
----
-
-## Licenza e Distribuzione
-
 * Il codice originale del BBC BASIC e l'adattamento per Commodore 64 rimangono soggetti alle rispettive note di diritto d'autore originali dei detentori dei diritti (**Acorn Computers** e **J.G. Harston**).
 
 ---
