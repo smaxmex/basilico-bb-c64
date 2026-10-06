@@ -1,0 +1,94 @@
+BASILICO BB    BBC BASIC
+
+ACS            ACS
+ASC            ASC
+ASN            ASN
+ASS            ABS
+ATN            ATN
+AVVIA          CHAIN
+CAR$           CHR$
+CARATTERI      COUNT
+CARICA         LOAD
+CAS            RND
+CHIAMA         CALL
+COS            COS
+DATI           DATA
+DIM            DIM
+DIS            DRAW
+DEF            DEF
+DIAGNOSI       REPORT
+DIV            DIV
+E              AND
+ELIMINA        DELETE
+ERL            ERL
+ERRORE         ERROR
+ERR            ERR
+ESEGUI         RUN
+ESP            EXP
+FALSO          FALSE
+FINCHE'        UNTIL
+FINE           END
+FINEPROC       ENDPROC
+FN             FN
+GIU'           OFF
+GR             DEG
+JS             ADVAL
+LETTURA        INPUT
+LETTURA#       INPUT#
+LIBERA         CLEAR
+LINEA          LINE
+LISTATO        LIST
+LOCALE         LOCAL
+MA             HIMEM
+MB             LOMEM
+MEZ$           MID$
+MODO*          MODE
+NUOVO          NEW
+ORA            TIME		
+PAG            PAGE
+PER            FOR
+PRENDI         GET
+PRENDI$        GET$
+PROC         	 PROC
+PSC            CLS
+RINOMINA       RENUMBER
+RIPETI         REPEAT
+RQU            SQR
+SE             SE
+SALVA          SAVE
+TASTO          INKEY
+TASTO$         INKEY$
+TRACCIA        TRACE
+SEN            SIN
+SPZ            SPC
+SU             ON
+STRINGA        STRING				
+UDV            VDU 
+VAI A          GOTO
+VAI SUB        GOSUB
+VALU           EVAL
+VECCHIO        OLD
+VERO           TRUE
+VISUALE        WIDTH
+
+* "Attualmente, la modalità MODE n si limita a cancellare lo schermo e a impostare testo bianco su sfondo nero. Tutte le modalità video del Commodore prevedono 40 caratteri per 25 righe, proprio come la modalità MODE 6 del BBC, ma con 16 colori; si può considerare una via di mezzo tra le modalità MODE 7 e MODE 1 del BBC."
+- Tratto e tradotto dal file Read.me del BBC BASIC per Commodore 64: https://mdfs.net/Software/BBCBasic/C64/Read.me
+
+I seguenti comandi non funzionano, neppure nel BBC BASIC per C64, del quale BASILICO-BB-C64 è localizzazione con comandi in lingua italiana
+
+AA             OPENUP
+ADSR           ENVELOPE
+AL             OPENIN
+AS             OPENOUT
+CG             COLG
+CH#            CLOSE#
+DS             DRAW
+ES#            EXT#
+FF#            EOF#
+MC#            BPUT#
+MV             MOVE
+PC#            BGET#
+PG             CLG
+TR             PLOT
+
+Il comando OSCLI (presente se pur inattivo nel BBC BASIC per Commodore 64) è stato tolto del tutto dalla tabella dei token nel BASILICO BB per Commodore 64, perché in tale sistema non c'è una riga di comando sotto il livello del BASIC
