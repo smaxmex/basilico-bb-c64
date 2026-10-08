@@ -7,7 +7,7 @@ ASS            ABS
 ATN            ATN
 AVVIA          CHAIN
 CAR$           CHR$
-CARATTERI      COUNT
+CONTA          COUNT
 CARICA         LOAD
 CAS            RND
 CHIAMA         CALL
@@ -65,7 +65,7 @@ SPZ            SPC
 SU             ON
 STRINGA        STRING		
 TORNA          RETURN
-UDV            VDU 
+SCHERMO        VDU 
 VAI A          GOTO
 VALU           EVAL
 VECCHIO        OLD
@@ -75,7 +75,7 @@ VISUALE        WIDTH
 * "Attualmente, la modalità MODE n si limita a cancellare lo schermo e a impostare testo bianco su sfondo nero. Tutte le modalità video del Commodore prevedono 40 caratteri per 25 righe, proprio come la modalità MODE 6 del BBC, ma con 16 colori; si può considerare una via di mezzo tra le modalità MODE 7 e MODE 1 del BBC."
 - Tratto e tradotto dal file Read.me del BBC BASIC per Commodore 64: https://mdfs.net/Software/BBCBasic/C64/Read.me
 
-I seguenti comandi non funzionano, neppure nel BBC BASIC per C64, del quale BASILICO-BB-C64 è localizzazione con comandi in lingua italiana
+I seguenti comandi non funzionano, neppure nel BBC BASIC per C64 (progetto che non è mai stato completato), del quale BASILICO-BB-C64 è localizzazione con comandi in lingua italiana
 
 AA             OPENUP
 ADSR           ENVELOPE
