@@ -32,6 +32,7 @@ FINEPROC       ENDPROC
 FN             FN
 GIU'           OFF
 GR             DEG
+INVOCA         GOSUB
 JS             ADVAL
 LETTURA        INPUT
 LETTURA#       INPUT#
@@ -62,10 +63,10 @@ TRACCIA        TRACE
 SEN            SIN
 SPZ            SPC
 SU             ON
-STRINGA        STRING				
+STRINGA        STRING		
+TORNA          RETURN
 UDV            VDU 
 VAI A          GOTO
-VAI SUB        GOSUB
 VALU           EVAL
 VECCHIO        OLD
 VERO           TRUE
