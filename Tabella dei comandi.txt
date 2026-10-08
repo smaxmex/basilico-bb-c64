@@ -16,6 +16,7 @@ DATI           DATA
 DIM            DIM
 DIS            DRAW
 DEF            DEF
+DESTRA$        RIGHT$
 DIAGNOSI       REPORT
 DIV            DIV
 E              AND
@@ -32,6 +33,8 @@ FINEPROC       ENDPROC
 FN             FN
 GIU'           OFF
 GR             DEG
+INSTR          INSTR
+INT            INT
 INVOCA         GOSUB
 JS             ADVAL
 LETTURA        INPUT
@@ -56,6 +59,7 @@ RIPETI         REPEAT
 RQU            SQR
 SE             SE
 SALVA          SAVE
+SINISTRA$      LEFT$
 TASTO          INKEY
 TASTO$         INKEY$
 TEMPO          TIME
