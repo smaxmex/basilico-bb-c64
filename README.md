@@ -2,7 +2,7 @@
 
 **BASato sull'Italiano LInguaggio COnvertito, derivato dal BBC BASIC per Commodore 64**
 
-BASILICO-BB-C64 è un adattamento del linguaggio BBC BASIC per Commodore 64 con comandi e sintassi localizzati in lingua italiana. Allo stato attuale, i comandi del BASIC sono stati interamente tradotti, non ancora i messaggi di errore.
+BASILICO-BB-C64 è un adattamento del linguaggio BBC BASIC per Commodore 64 con comandi localizzati in lingua italiana. Allo stato attuale, i comandi del BASIC sono stati interamente tradotti, non ancora i messaggi di errore.
 
 ---
 
