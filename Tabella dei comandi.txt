@@ -1,6 +1,6 @@
 BASILICO BB-c64    BBC BASIC
 
-A                  TO
+FINO               TO
 ACS                ACS
 ALLORA             THEN
 ALTRIMENTI         ELSE
@@ -68,7 +68,7 @@ PER                FOR
 PI                 PI
 POS                POS
 POSV               POSV
-PU(                POINT(
+PUNTO(             POINT(
 PRENDI             GET
 PRENDI$            GET$
 PROC               PROC
@@ -101,12 +101,12 @@ TEMPO              TIME
 TORNA              RETURN
 TRACCIA            TRACE
 UTN                USR
-VAI A              GOTO
+VAI                GOTO
 VAL                VAL
 VALU               EVAL
 VECCHIO            OLD
 VERO               TRUE
-VISTA              WIDTH
+VMC                WIDTH
 
 "Attualmente, la modalità MODE n si limita a cancellare lo schermo e a impostare testo bianco su sfondo nero. Tutte le modalità video del Commodore prevedono 40 caratteri per 25 righe, proprio come la modalità MODE 6 del BBC, ma con 16 colori; si può considerare una via di mezzo tra le modalità MODE 7 e MODE 1 del BBC."
 - Tratto e tradotto dal file Read.me del BBC BASIC per Commodore 64 di J.G.Harston: https://mdfs.net/Software/BBCBasic/C64/Read.me - Il comando MODO del BASILICO-BB-C64 si comporta come il comando MODO del BBC BASIC per Commodore 64 di J.G.Harston.
@@ -114,7 +114,6 @@ VISTA              WIDTH
 I seguenti comandi non funzionano, neppure nel BBC BASIC per C64 di J.G.Harston (essendo un progetto che non è mai stato completato), del quale BASILICO-BB-C64 è localizzazione con comandi in lingua italiana
 
 AA             OPENUP
-ADSR           ENVELOPE
 AL             OPENIN
 AS             OPENOUT
 CG             COLG
@@ -122,6 +121,7 @@ CH#            CLOSE#
 DS             DRAW
 ES#            EXT#
 FF#            EOF#
+IN             ENVELOPE
 MC#            BPUT#
 MV             MOVE
 PC#            BGET#
