@@ -65,41 +65,41 @@ OES            EOR
 PAG            PAGE
 PASSO          STEP
 PER            FOR
+PI             PI
 POS            POS
+POSV           POSV
 PU(            POINT(
 PRENDI         GET
 PRENDI$        GET$
-PROC         	 PROC
+PROC           PROC
 PSC            CLS
+RAD            RAD
 RILEGGI        RESTORE
 RINOMINA       RENUMBER
 RIPETI         REPEAT
 RQU            SQR
 SE             SE
 SALVA          SAVE
+SCHERMO        VDU
 SEGUENTE       NEXT
+SEN            SIN
+SGN            SGN
 SIA            LET
 SINISTRA$      LEFT$
+SPZ            SPC
+STAMPA         PRINT
+STAMPA$        PRINT$
+STOP           STOP	
+STR$           STR$
+STRINGA$       STRING$
+SU             ON
+TAB            TAB
+TAN            TAN
 TASTO          INKEY
 TASTO$         INKEY$
 TEMPO          TIME
 TORNA          RETURN
 TRACCIA        TRACE
-SEN            SIN
-SPZ            SPC
-SU             ON
-STAMPA         PRINT
-STAMPA$        PRINT$
-STOP           STOP
-STRINGA        STRING		
-TORNA          RETURN
-SALVA          SAVE
-SCHERMO        VDU
-SGN            SGN
-STR$           STR$
-STRINGA$       STRING$
-TAN            TAN
-TEMPO          TIME
 UTN            USR
 VAI A          GOTO
 VAL            VAL
@@ -109,7 +109,7 @@ VERO           TRUE
 VISTA          WIDTH
 
 * "Attualmente, la modalità MODE n si limita a cancellare lo schermo e a impostare testo bianco su sfondo nero. Tutte le modalità video del Commodore prevedono 40 caratteri per 25 righe, proprio come la modalità MODE 6 del BBC, ma con 16 colori; si può considerare una via di mezzo tra le modalità MODE 7 e MODE 1 del BBC."
-- Tratto e tradotto dal file Read.me del BBC BASIC per Commodore 64: https://mdfs.net/Software/BBCBasic/C64/Read.me
+- Tratto e tradotto dal file Read.me del BBC BASIC per Commodore 64: https://mdfs.net/Software/BBCBasic/C64/Read.me - Il comando MODO del BASILICO BB per Commodore 64, essendo tale linguaggio la localizzazione in italiano del BBC per Commodore 64, farà lo stesso.
 
 I seguenti comandi non funzionano, neppure nel BBC BASIC per C64 (progetto che non è mai stato completato), del quale BASILICO-BB-C64 è localizzazione con comandi in lingua italiana
 
