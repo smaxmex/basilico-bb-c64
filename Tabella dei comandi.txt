@@ -58,6 +58,7 @@ MOD            MOD
 MODO*          MODE
 NON            NOT
 NOTA           REM
+NUMERA         AUTO
 NUOVO          NEW
 O              OR
 OES            EOR
