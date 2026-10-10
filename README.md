@@ -18,9 +18,9 @@ Il codice originale del BBC BASIC e l'adattamento per Commodore 64 rimangono sog
 
 ---
 
-## Requisiti e Utilizzo
+## Requisiti e utilizzo
 
-Per eseguire **BASILICO-BB-C64** su un emulatore Commodore 64 (es. VICE) o su reale Commodore 64/128:
+Per eseguire **BASILICO-BB-C64** su un emulatore Commodore 64 (es. VICE), anche online, o su un reale Commodore 64/128:
 
 1. Scaricare il file PRG.
 2. Caricarlo tramite comando:
