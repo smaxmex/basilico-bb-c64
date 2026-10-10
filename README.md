@@ -31,9 +31,11 @@ RUN
 
 ---
 
-## Utility DISCO e Gestione File
+## Utility DISCO per la gestione dei file
 
 Poiché BASILICO non dispone di comandi nativi per la gestione dei file (come la visualizzazione della directory, la rinomina dei file, l'inizializzazione o la formattazione del disco), è stata inserita nel repository l'utility **DISCO**, che integra queste funzionalità.
+
+## L'assemblatore integrato
 
 L'utility DISCO è scritta in Assembly attraverso l'assemblatore integrato che BASILICO eredita dal BBC BASIC, ed è perfettamente funzionante. Durante la programmazione, occorre tenere presenti alcune particolarità della sintassi dell'assemblatore integrato:
 
